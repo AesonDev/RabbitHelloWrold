@@ -1,0 +1,8 @@
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Sender\bin\Debug\RabbitDemo.Sender.exe.config
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Sender\bin\Debug\RabbitDemo.Sender.exe
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Sender\bin\Debug\RabbitDemo.Sender.pdb
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Sender\bin\Debug\RabbitMQ.Client.dll
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Sender\bin\Debug\RabbitMQ.Client.xml
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Sender\obj\Debug\RabbitDemo.Sender.csprojResolveAssemblyReference.cache
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Sender\obj\Debug\RabbitDemo.Sender.exe
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Sender\obj\Debug\RabbitDemo.Sender.pdb

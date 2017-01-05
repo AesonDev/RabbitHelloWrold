@@ -1,0 +1,8 @@
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Receiver\bin\Debug\RabbitDemo.Receiver.exe.config
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Receiver\bin\Debug\RabbitDemo.Receiver.exe
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Receiver\bin\Debug\RabbitDemo.Receiver.pdb
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Receiver\obj\Debug\RabbitDemo.Receiver.csprojResolveAssemblyReference.cache
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Receiver\obj\Debug\RabbitDemo.Receiver.exe
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Receiver\obj\Debug\RabbitDemo.Receiver.pdb
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Receiver\bin\Debug\RabbitMQ.Client.dll
+c:\users\gaetan\documents\visual studio 2015\Projects\RabbitDemo\RabbitDemo.Receiver\bin\Debug\RabbitMQ.Client.xml
